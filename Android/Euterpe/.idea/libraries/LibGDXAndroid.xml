@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="LibGDXAndroid">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Library/LibGDXAndroid" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../Library/LibGDXAndroid/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Library/LibGDXAndroid" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Library/LibGDXAndroid" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Library/LibGDXAndroid" recursive="false" type="SOURCES" />
+  </library>
+</component>
