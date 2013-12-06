@@ -19,7 +19,7 @@ public class SampleScreen implements Screen {
         //batch.end();
 
         if(Gdx.input.justTouched())
-            Log.v("Euterpe", "Entree dans l'application");
+            Log.v("Euterpe", "justTouched");
     }
 
     @Override
