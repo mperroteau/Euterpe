@@ -84,19 +84,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ActivityMain.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/ActivityMain.java">
+      <file leaf-file-name="Item.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.3469388" vertical-offset="0" max-vertical-offset="588">
+            <state line="23" column="21" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleScreen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Screens/SampleScreen.java">
+      <file leaf-file-name="ItemType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="41" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+            <state line="3" column="29" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Music.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Music.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.11950791" vertical-offset="0" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="5" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Level.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="72" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Settings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Settings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="28" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Score.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Score.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="85" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -105,18 +159,16 @@
       <file leaf-file-name="GameCore.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/GameCore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="8" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="ItemSimple.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemSimple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="37" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="442">
+            <state line="3" column="29" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -143,6 +195,21 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Screens/SampleScreen.java" />
         <option value="$PROJECT_DIR$/src/com/esgi/euterpe/ActivityMain.java" />
+        <option value="$PROJECT_DIR$/project.properties" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Screens/Tools.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/ItemType.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Item/ItemType.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Item/ItemSimple.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemSimple.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemType.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Tools.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Settings.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Level.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Item.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Score.java" />
+        <option value="$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Music.java" />
       </list>
     </option>
   </component>
@@ -163,18 +230,36 @@
             <id />
           </State>
           <State>
-            <id>Android</id>
-          </State>
-          <State>
             <id>Android Lint</id>
           </State>
           <State>
-            <id>Imports</id>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Inheritance issues</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Spelling</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>UNUSED_IMPORT</id>
+            <id>SpellCheckingInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -206,6 +291,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,11 +343,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
+              <option name="myItemId" value="euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Screens" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Items" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,15 +416,23 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euterpe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +447,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Library/LibGDXAndroid" />
+    <property name="last_opened_file_path" value="C:/Projects/Android/TDAndroid" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -310,6 +457,12 @@
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.Euterpe">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
       <setting name="path" value="" />
@@ -317,32 +470,6 @@
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$" />
       <setting name="debug" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -365,6 +492,26 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
@@ -397,6 +544,35 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -422,35 +598,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="XSLT" factoryName="XSLT">
-      <option name="myOutputFile" />
-      <option name="myOpenOutputFile" value="false" />
-      <option name="myOpenInBrowser" value="false" />
-      <option name="mySmartErrorHandling" value="true" />
-      <option name="myRunnerPort" value="34873" />
-      <option name="myVmArguments" />
-      <option name="myWorkingDirectory" />
-      <option name="myModule" />
-      <option name="myJdk" />
-      <parameters />
-      <OutputType value="CONSOLE" save-to-file="false" />
-      <FileType name="XML" />
-      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -582,7 +729,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -596,20 +743,20 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42019543" sideWeight="0.76888216" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45114008" sideWeight="0.76888216" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1971299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1971299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32084692" sideWeight="0.77794564" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32084692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -645,6 +792,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/esgi/euterpe/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/esgi/euterpe/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -666,11 +833,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/GameCore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="63" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="63" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -682,16 +845,12 @@
     </entry>
     <entry file="jar://$USER_HOME$/Desktop/ANDROID/sdk/platforms/android-10/android.jar!/java/lang/ClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1258">
-          <folding />
-        </state>
+        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1258" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Library/LibGDXAndroid/gdx-sources.jar!/com/badlogic/gdx/graphics/g2d/SpriteBatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="20655">
-          <folding />
-        </state>
+        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="20655" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/icon.png">
@@ -715,11 +874,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/GameCore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="63" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="63" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -731,16 +886,12 @@
     </entry>
     <entry file="jar://$USER_HOME$/Desktop/ANDROID/sdk/platforms/android-10/android.jar!/java/lang/ClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1258">
-          <folding />
-        </state>
+        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1258" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Library/LibGDXAndroid/gdx-sources.jar!/com/badlogic/gdx/graphics/g2d/SpriteBatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="20655">
-          <folding />
-        </state>
+        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="20655" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/icon.png">
@@ -784,46 +935,22 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Library/LibGDXAndroid/gdx-sources.jar!/com/badlogic/gdx/graphics/g2d/SpriteBatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="19992">
-          <folding />
-        </state>
+        <state line="79" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="19992" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Desktop/ANDROID/sdk/platforms/android-10/android.jar!/java/lang/ClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="37" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="41" column="30" selection-start="2357" selection-end="2357" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1241" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Library/LibGDXAndroid/gdx-backend-android-sources.jar!/com/badlogic/gdx/backends/android/AndroidGraphics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="498" column="0" selection-start="15906" selection-end="15906" vertical-scroll-proportion="0.0" vertical-offset="7289" max-vertical-offset="10302">
-          <folding />
-        </state>
+        <state line="498" column="0" selection-start="15906" selection-end="15906" vertical-scroll-proportion="0.0" vertical-offset="7289" max-vertical-offset="10302" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Desktop/ANDROID/sdk/platforms/android-10/android.jar!/android/opengl/GLSurfaceView.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="4050" selection-end="4050" vertical-scroll-proportion="0.0" vertical-offset="1138" max-vertical-offset="1496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/GameCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="83" column="0" selection-start="4050" selection-end="4050" vertical-scroll-proportion="0.0" vertical-offset="1138" max-vertical-offset="1496" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/icon.png">
@@ -831,16 +958,133 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Euterpe.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="11" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/esgi/euterpe/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/esgi/euterpe/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Screens/SampleScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="41" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+        <state line="21" column="41" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/esgi/euterpe/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/GameCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/ActivityMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.3469388" vertical-offset="0" max-vertical-offset="588">
+        <state line="11" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="85" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemSimple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Items/ItemType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="5" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="72" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/esgi/euterpe/Classes/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.11950791" vertical-offset="0" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>

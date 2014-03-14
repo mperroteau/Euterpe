@@ -12,7 +12,6 @@ public class ActivityMain extends AndroidApplication {
 
     public void onCreate(Bundle savedInstanceState)
     {
-
         super.onCreate(savedInstanceState);
         //Log.v("TEST", "ActivityMain");
         AndroidApplicationConfiguration appConfig = new AndroidApplicationConfiguration();
@@ -20,7 +19,5 @@ public class ActivityMain extends AndroidApplication {
         appConfig.useWakelock = true;
 
         initialize(new GameCore(), appConfig);
-
-
     }
 }
