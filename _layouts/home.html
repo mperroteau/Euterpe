@@ -1,25 +1,122 @@
 {% include head.html %}
+
+ <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top">Euterpe</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#about">Features</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#news">News</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#team">Team</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+</nav>
     
-	<h1 class="title-site">{{ page.title }}</h1>
+<section id="intro" class="intro-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Euterpe</h1>        
+                <br>
+                <p>Euterpe project is a mobile application / game musical rhythm for Android and Windows Phone. The main feature of the project is to automatically generate parts based music present and selected by the user.
+                </p>
+                <!--Timeline, adresse du projet (avec lien vers store android et windows phone-->
+                <br>
+                <div class="page-scroll">
+                    <a class="btn btn-default" href="#about">Features</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-	{{ content }}
+<section id="about" class="about-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Features</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6" style="text-align:left;">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+                          Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
+                          dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+                          Aliquam in felis sit amet augue.
+            </div>
+            <div class="col-md-6">
+                <img  class="img-thumbnail" src="http://25.media.tumblr.com/3ae18f62f240ad460be8b56bc57af1f9/tumblr_msxkkwlbfp1s9tgsho1_400.gif"alt="img/micro.jpg" style="width:500px;">
+            </div>
+        </div>
+    </div>
+</section>
 
-	<nav class="grid">
-	    <ul>
-	        {% for p in site.pages %}
+<section id="news" class="services-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>News section</h1>
+            </div>
+        </div>
+         <div class="row">
+        <ul class="timeline">
+        
+            {% for p in site.pages %}
 	        {% if p.home %}
 	        {% else %}
-	        <li>
-	        	<a href="{{ site.baseurl }}{{ p.url }}">
-		        <div class="img-wrapper">
-	        		<img src="{{ p.image }}" />
-	        	</div>
-		        <h2>{{ p.title }}</h2>
-		        </a>
-	        </li>
-	        {% endif %}
-	        {% endfor %}
-	    </ul>
-	</nav>
+	        
+               <li class="{{ p.side }}">
+                  <div class="timeline-badge {{ p.type }}"><i class="glyphicon {{ p.glyphicon }}"></i></div>
+                  <div class="timeline-panel">
+                    <div class="timeline-heading">
+                      <a href="{{ p.url }}"><h4 class="timeline-title">{{ p.title }}</h4></a>
+                      <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>{{ p.date }}</small></p>
+                    </div>
+                    <div class="timeline-body">
+                      <p>{{ p.resume }}</p>
+                    </div>
+                  </div>
+                </li>
+                
+            {% endif %}
+            {% endfor %}
+                
+          </ul>
+          </div>
+    </div>
+</section>
+
+<section id="team" class="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Team section</h1>
+            </div>
+        </div>
+    </div>
+</section>
 
 {% include foot.html %}
