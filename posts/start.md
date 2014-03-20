@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Start
-image: 
+date: 
+resume: 
+side: 
+type: 
+glyphicon: 
 ---
 
 Test Start
