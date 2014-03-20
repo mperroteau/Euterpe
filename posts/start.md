@@ -1,7 +1,13 @@
 ---
 layout: default
 title: Start
-image: 
+date: 
+resume: 
+<!--if right side : timeline-inverted-->
+side: 
+<!-- type color-->
+type: 
+glyphicon: 
 ---
 
 Test Start
