@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Start
-date: 
-resume: 
+title: Site project
+date: March 1, 2014
+resume: New site for Euterpe project !
 side: 
-type: 
-glyphicon: 
+type: info
+glyphicon: glyphicon-plus
 ---
 
-Test Start
+New site for Euterpe project !
