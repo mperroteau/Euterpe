@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="FmodAndroid">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/3d/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/fsb/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/effects/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/playlist/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/readtags/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/netstream/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/playsound/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/recording/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/submixing/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/dsp_custom/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/playstream/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/soundgroups/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/generatetone/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/manualdecode/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/channelgroups/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/filecallbacks/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/loadfrommemory/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/nativeactivity/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/offlinedecoding/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/usercreatedsound/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/realtimestitching/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/examples/dsp_effectperspeaker/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/effects/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/info_only/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/load_data/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/parameters/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/simple_event/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/max_playbacks/src" />
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/fmoddesignerapi/examples/programmer_selected/src" />
+    </SOURCES>
+  </library>
+</component>

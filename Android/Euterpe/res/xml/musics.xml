@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Fichie d'origine avec les informations des musiques contenues-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <music>
+        <title name="title">Seven sisters</title>
+        <artist name="artist">Bert Jerred</artist>
+        <path name="path">music/bj_sevensisters.mp3</path>
+    </music>
+</PreferenceScreen>

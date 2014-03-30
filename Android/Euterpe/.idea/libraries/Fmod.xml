@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Fmod">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Library/fmodapi44432android/api/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Library/fmodapi44432android/api/lib" recursive="false" />
+  </library>
+</component>

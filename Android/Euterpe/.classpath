@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/LibGDXAndroid"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Fmod"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Marine/Documents/GitHub/Euterpe/Android/Library/gdx-audio.jar"/>
 	<classpathentry kind="output" path="out/production/Euterpe"/>
 </classpath>

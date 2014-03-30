@@ -1,6 +1,7 @@
 package com.esgi.euterpe;
 
 import android.os.Bundle;
+import android.util.Log;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 
@@ -12,8 +13,9 @@ public class ActivityMain extends AndroidApplication {
 
     public void onCreate(Bundle savedInstanceState)
     {
+        Log.v("TEST", "Application lancée");
         super.onCreate(savedInstanceState);
-        //Log.v("TEST", "ActivityMain");
+        Log.v("TEST", "ActivityMain");
         AndroidApplicationConfiguration appConfig = new AndroidApplicationConfiguration();
         appConfig.useGL20 = true;
         appConfig.useWakelock = true;
