@@ -22,6 +22,7 @@ public class EGame {
         level = new Level();
     };
 
+
     public String generateTest(String musicToGen){
         //Lancement de la partie et génération des items
         //On créer une nouvelle musique a partir d'un fichier
@@ -52,6 +53,7 @@ public class EGame {
         for (int f = 0; f<newSpectrum.length; f++){
             //TODO Affiner l'incrémentation en fonction du niveau
             itemList.add(new Item());//Ajouter des coordonnées
+
         }
     }
 
@@ -65,6 +67,10 @@ public class EGame {
 
     public void restart(){
         //relance le jeu et réinitialise tous les arguments
+    }
+
+    public void testfmod(){
+        
     }
 
 }

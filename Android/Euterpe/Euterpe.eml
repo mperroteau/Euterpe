@@ -5,6 +5,6 @@
 	<contentEntry url="file://$MODULE_DIR$"/>
 	<levels>
 		<level name="LibGDXAndroid" value="project"/>
-		<level name="Fmod" value="project"/>
+		<level name="FMOD" value="project"/>
 	</levels>
 </component>

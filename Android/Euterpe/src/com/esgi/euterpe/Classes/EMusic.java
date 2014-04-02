@@ -14,6 +14,9 @@ public class EMusic {
     /*
     * Variables utiles dans la génération de la partie
     * */
+
+    //TODO GetWaveDate sous FMOD permet de récupérer le spectre d'un fichier sans jouer la musique cf : http://web.media.mit.edu/~assaf/main.cpp
+
     private int[] audioData = null;
     int sampleRate = 44100;
 
@@ -31,6 +34,7 @@ public class EMusic {
             if ((audioData[p] > 0 && audioData[p + 1] <= 0) || (audioData[p] < 0 && audioData[p + 1] >= 0))
             {
                 //En fonction des numéros suivants, définir quel item ajouter
+
             }
         }
     }
