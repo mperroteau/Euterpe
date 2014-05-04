@@ -1,15 +1,30 @@
 package com.esgi.euterpe.gen;
 
+import android.os.Message;
+import org.fmod.FMODAudioDevice;
+
 import java.util.Timer;
+import java.util.logging.Handler;
+import java.util.logging.LogRecord;
 
 /**
  * Created by Marine on 30/03/14.
  */
 public class EMusic {
+
+
     int id;
     String nom;
     String artiste;
     Timer duree;
+
+    /**
+     * Elements nécessaire au bon fonctionnement du decodage de la musique
+     */
+
+    private FMODAudioDevice fmodAudioDevice = new FMODAudioDevice();
+
+
 
     /*
     * Variables utiles dans la génération de la partie
@@ -75,4 +90,24 @@ public class EMusic {
 
         return tabFrequency;
     }
+
+    public void _getSpectrum(){
+
+        fmodAudioDevice.start();
+        cBegin(); //TODO Ajouter dans ce fichier et dans le fichier c++ un lien afin d'accéder au fichier : pour l'instant fichier en dur dans le code c++
+        cDecode(); //TODO Faire si possible un return d'un tableau afin d'afficher les éléments
+
+    }
+
+
+    static
+    {
+        System.loadLibrary("fmodex");
+        System.loadLibrary("main");
+    }
+
+    public native void cBegin();
+    public native void cUpdate();
+    public native void cEnd();
+    public native void cDecode();
 }
