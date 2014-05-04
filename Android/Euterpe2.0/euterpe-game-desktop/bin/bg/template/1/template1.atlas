@@ -1,0 +1,68 @@
+
+template1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic1
+  rotate: false
+  xy: 1, 338
+  size: 800, 145
+  orig: 800, 145
+  offset: 0, 0
+  index: -1
+pic7
+  rotate: false
+  xy: 1, 221
+  size: 800, 115
+  orig: 800, 115
+  offset: 0, 0
+  index: -1
+pic8
+  rotate: false
+  xy: 803, 368
+  size: 800, 115
+  orig: 800, 115
+  offset: 0, 0
+  index: -1
+pic5
+  rotate: false
+  xy: 1, 153
+  size: 750, 66
+  orig: 750, 66
+  offset: 0, 0
+  index: -1
+pic6
+  rotate: false
+  xy: 803, 300
+  size: 750, 66
+  orig: 750, 66
+  offset: 0, 0
+  index: -1
+pic3
+  rotate: false
+  xy: 1, 1
+  size: 500, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+pic4
+  rotate: false
+  xy: 803, 148
+  size: 500, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+pic2
+  rotate: false
+  xy: 1305, 153
+  size: 167, 145
+  orig: 167, 145
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1605, 474
+  size: 37, 9
+  orig: 37, 9
+  offset: 0, 0
+  index: -1

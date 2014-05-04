@@ -13,6 +13,7 @@ public class ActivityMain extends AndroidApplication {
 
     public void onCreate(Bundle savedInstanceState)
     {
+
         Log.v("TEST", "Application lancée");
         super.onCreate(savedInstanceState);
         Log.v("TEST", "ActivityMain");
@@ -20,6 +21,10 @@ public class ActivityMain extends AndroidApplication {
         appConfig.useGL20 = true;
         appConfig.useWakelock = true;
 
-        initialize(new GameCore(), appConfig);
+        getApplicationContext();
+
+        Log.v("Euterpe", "Context : "+getApplicationContext().toString());
+
+        initialize(new GameCore(getApplicationContext()), appConfig);
     }
 }

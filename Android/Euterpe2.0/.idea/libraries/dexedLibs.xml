@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/euterpe-game-android/bin/dexedLibs/tween-engine-api-b4affc8b9d72d9793b9a3e2cfdd3d4e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game-android/bin/dexedLibs/gdx-backend-android-sources-39f02dd43fbaf63d958c224af4b8c4c7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game-android/bin/dexedLibs/gdx-backend-android-d54a2c433768d66459485c29db8e21e9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game-android/bin/dexedLibs/annotations-62bab95d6948a2db17bbc7976160b014.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game-android/bin/dexedLibs/gdx-48bb2e35ab19664b4b8c77a6013ff87d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

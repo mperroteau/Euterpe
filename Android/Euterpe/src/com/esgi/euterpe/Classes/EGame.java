@@ -1,12 +1,14 @@
 package com.esgi.euterpe.Classes;
+
 import android.util.Log;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.audio.AudioDevice;
-import com.badlogic.gdx.audio.Music;
+import com.badlogic.gdx.audio.AudioRecorder;
 import com.badlogic.gdx.audio.analysis.KissFFT;
 import com.badlogic.gdx.audio.io.Mpg123Decoder;
 import com.badlogic.gdx.files.FileHandle;
 
+import java.io.IOException;
 import java.util.List;
 
 /**
@@ -23,12 +25,35 @@ public class EGame {
     };
 
 
-    public String generateTest(String musicToGen){
+    public String getSpectrum(String musicToGen) throws IOException {
         //Lancement de la partie et génération des items
         //On créer une nouvelle musique a partir d'un fichier
+
+        /*
         Music mp3Music;
         mp3Music = Gdx.audio.newMusic(Gdx.files.internal(musicToGen));
         return mp3Music.toString();
+        */
+
+        //byte[] music = new byte[musicToGen.available()];
+
+        //New test avec la librairie GDX
+
+        AudioDevice playbackDevice = Gdx.audio.newAudioDevice(44100, true);
+        AudioRecorder recordingDevice = Gdx.audio.newAudioRecorder(44100, true);
+        short[] samples = new short[44100*10]; //10 seconde de son en mono
+        recordingDevice.read(samples, 0, samples.length);
+        playbackDevice.writeSamples(samples, 0, samples.length);
+        recordingDevice.dispose();
+        playbackDevice.dispose();
+
+        String result = "";
+
+        for (int i=0; i < samples.length; i++){
+            Log.v("Euterpe", String.valueOf(samples[1]));
+            result += String.valueOf(samples[1]);
+        }
+        return result;
     }
 
     public void generate(String musicToGen){
@@ -70,7 +95,10 @@ public class EGame {
     }
 
     public void testfmod(){
-        
+    }
+
+    public List<Item> getItemList(){
+        return this.itemList;
     }
 
 }

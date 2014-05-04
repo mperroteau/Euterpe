@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/euterpe-game/euterpe-game.iml" filepath="$PROJECT_DIR$/euterpe-game/euterpe-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euterpe-game-android/euterpe-game-android.iml" filepath="$PROJECT_DIR$/euterpe-game-android/euterpe-game-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euterpe-game-desktop/euterpe-game-desktop.iml" filepath="$PROJECT_DIR$/euterpe-game-desktop/euterpe-game-desktop.iml" />
+    </modules>
+  </component>
+</project>
+

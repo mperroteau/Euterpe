@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/euterpe-game/libs/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game/libs/tween-engine-api-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game/libs/tween-engine-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/euterpe-game/libs/gdx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

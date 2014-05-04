@@ -4,6 +4,6 @@
     <music>
         <title name="title">Seven sisters</title>
         <artist name="artist">Bert Jerred</artist>
-        <path name="path">music/bj_sevensisters.mp3</path>
+        <path name="path">musics/bj_sevensisters.mp3</path>
     </music>
 </PreferenceScreen>

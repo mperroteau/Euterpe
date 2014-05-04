@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="/Euterpe/src"/>
+	<classpathentry kind="src" path="/Euterpe/gen"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/LibGDXAndroid"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Marine/Documents/GitHub/Euterpe/Android/Library/gdx-audio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marine/Documents/GitHub/Euterpe/Android/Library/gdx-audio.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/FMOD"/>
-	<classpathentry kind="output" path="out/production/Euterpe"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>

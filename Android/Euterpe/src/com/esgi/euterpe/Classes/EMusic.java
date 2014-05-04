@@ -23,6 +23,7 @@ public class EMusic {
     //En fonction du tempo et de la liste de fréquence générer la partie
     public void generateGame(int[] audioData, int frequency){
 
+
         int numSamples = audioData.length;
         int numCrossing = 0;
 
