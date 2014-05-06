@@ -25,7 +25,8 @@ public class MenuScreen implements Screen{
 
     private Game game;
 
-    private TextureRegion bkTexture;
+    //private TextureRegion bkTexture;
+    Texture bkTexture;
     private SpriteBatch batch;
     private Stage stage;
     private TextureAtlas atlas;
@@ -61,8 +62,8 @@ public class MenuScreen implements Screen{
     @Override
     public void show() {
         batch = new SpriteBatch();
-        bkTexture = new TextureRegion(new Texture(Gdx.files.internal("background/background.png")),0 , 0, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
-
+        //bkTexture = new TextureRegion(new Texture(Gdx.files.internal("background/background.png")),0 , 0, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
+        bkTexture = new Texture(Gdx.files.internal("background/background.png"));
         stage = new Stage();
 
         Gdx.input.setInputProcessor(stage);
